@@ -44,3 +44,7 @@ class ViewController: UIViewController {
    
     
 }
+struct Abdo{
+    let good : String
+    
+}
