@@ -46,5 +46,6 @@ class ViewController: UIViewController {
 }
 struct Abdo{
     let good : String
+    let notgood : String
     
 }
